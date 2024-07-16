@@ -30,30 +30,47 @@ website/src
 │   │── global.css
 │   │── layout.tsx
 │   ├── page.tsx
-│   │                   ├── ApplicationForm.Module.css
+│   │                   
 ├──components/
 │   ├── ui/
-│   │   ├── ApplicationProcess.Module.css
-│   │                   ├──page.tsx
-│   ├── FAQ/
-│   │                   ├── FAQ.Module.css
-│   │                   ├──page.tsx
-│   ├── Footer/
-│   │                   ├── Footer.Module.css
-│   │                   ├──page.tsx
-│   ├── Header/
-│                       ├── Header.css
-│                       ├──page.tsx
-├── pages/
-│   ├── _app.tsx
-│   ├── index.tsx
-├── public/
-│   ├── favicon.ico
-│   ├── .net.svg
-│   ├── .vercel.svg
-├── styles/
-│   ├── globals.css
-│   ├── home.module.css
-├── tsconfig.json
+│   │    ├──Spotlight.tsx
+│   │    ├──animated-tooltip.tsx
+│   │    ├──aurora-background.tsx
+│   │    ├──background-gradient.tsx
+│   │    ├──moving-border.tsx
+│   │    ├──navbarmenu.tsx
+│   │    ├──wavy-background.tsx
+│   │
+│   ├── ApplicationProcess.tsx
+│   ├── Application_Form.tsx
+│   ├── Banner.tsx
+│   ├── Footer.tsx
+│   ├── Navbar.tsx
+│   │                                     
+├── data/
+│   ├── step-required.json
+│   
+├── utils/
+│   ├── cn.ts
+├── next-enc.d.ts
+├── next.config.mjs
+├── package-lock.json
 ├── package.json
+├── postcss.config.mjs
+├── tailwind.config.ts
 └── README.md
+
+## Technologies Used
+1.Next.js
+2.TypeScript
+3.Material-UI
+4.React Hook Form
+5.Yup
+
+## Features
+1.Landing Page: Includes sections like About Us, Application Process, and FAQ.
+2.Application Form: A form with validation using React Hook Form and Yup.
+3.Responsive Design: Uses Material-UI and Aceternity-UI for a responsive and accessible design.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.

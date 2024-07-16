@@ -64,6 +64,7 @@ website/src
 1.Next.js
 2.TypeScript
 3.Material-UI
+4.Aceternity-UI
 4.React Hook Form
 5.Yup
 

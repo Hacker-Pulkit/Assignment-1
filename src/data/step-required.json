@@ -1,0 +1,36 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Gather Personal Information:",
+        "description": "Collect essential personal details such as your full name, age, gender, city, state, and pincode. Ensure all information is accurate and up-to-date to avoid any processing delays..",
+        "isFeatured": true
+
+      },
+      {
+        "id": 2,
+        "title": "Review Financial Information",
+        "description": "If applicable, prepare to provide information regarding your financial status. This may include details about your income, savings, and any existing debts.",
+        "isFeatured": true
+      },
+      {
+        "id": 3,
+        "title": "Prepare Supporting Documents",
+        "description": "Gather necessary supporting documents such as identification proof (e.g., Aadhar card, passport), address proof (e.g., utility bill, rental agreement), and any relevant financial documents (e.g., bank statements, income proof)",
+        "isFeatured": true
+      },
+      {
+        "id": 4,
+        "title": "Fill Out the Application Form",
+        "description": "Carefully fill out each section of the application form. Use the provided fields to enter your personal and financial information. Double-check for any errors or omissions before submitting the form",
+        "isFeatured": true
+      },
+      {
+        "id": 5,
+        "title": "Submit the Application",
+        "description": "Once you have filled out the form and attached the necessary documents, submit the application. Depending on the platform, this could be an online submission or a physical submission.",
+        "isFeatured": true
+      }
+    ]
+  }
+  
